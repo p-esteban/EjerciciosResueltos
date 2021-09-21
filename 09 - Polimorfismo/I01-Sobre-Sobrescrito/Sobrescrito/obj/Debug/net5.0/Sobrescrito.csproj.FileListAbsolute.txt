@@ -1,0 +1,16 @@
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\bin\Debug\net5.0\Sobrescrito.exe
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\bin\Debug\net5.0\Sobrescrito.deps.json
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\bin\Debug\net5.0\Sobrescrito.runtimeconfig.json
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\bin\Debug\net5.0\Sobrescrito.runtimeconfig.dev.json
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\bin\Debug\net5.0\Sobrescrito.dll
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\bin\Debug\net5.0\ref\Sobrescrito.dll
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\bin\Debug\net5.0\Sobrescrito.pdb
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\obj\Debug\net5.0\Sobrescrito.csproj.AssemblyReference.cache
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\obj\Debug\net5.0\Sobrescrito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\obj\Debug\net5.0\Sobrescrito.AssemblyInfoInputs.cache
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\obj\Debug\net5.0\Sobrescrito.AssemblyInfo.cs
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\obj\Debug\net5.0\Sobrescrito.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\obj\Debug\net5.0\Sobrescrito.dll
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\obj\Debug\net5.0\ref\Sobrescrito.dll
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\obj\Debug\net5.0\Sobrescrito.pdb
+C:\Users\Esteban\Desktop\EjerciciosResueltos\09 - Polimorfismo\I01-Sobre-Sobrescrito\Sobrescrito\obj\Debug\net5.0\Sobrescrito.genruntimeconfig.cache
