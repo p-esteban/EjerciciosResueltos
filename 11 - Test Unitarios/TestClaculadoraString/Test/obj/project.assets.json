@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Test\\obj\\",
+      "outputPath": "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Esteban\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6156,8 +6156,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Biblioteca\\Biblioteca.csproj"
+            "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Biblioteca\\Biblioteca.csproj"
             }
           }
         }

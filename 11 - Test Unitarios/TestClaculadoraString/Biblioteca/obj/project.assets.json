@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Esteban\\AppData\\Roaming\\NuGet\\NuGet.Config",

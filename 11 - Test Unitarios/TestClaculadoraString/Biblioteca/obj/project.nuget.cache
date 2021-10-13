@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C9bG9uRHGXfCCv+X39FF0uCOs+nyzmq8euaW/B8UX7dJIbT7RDHOmQg9R/hbWdyk6ZZz8lOgtIefrWPC+H9teg==",
+  "dgSpecHash": "uUtg6+EA2ZM41Y38mdifYi4yFOguZyP2moguwjdpX9BSAQNwSSMDOOFCdny9NI1EPP7/0jkBSRV4W1zJCMd83w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\11 - Test Unitarios\\TestClaculadoraString\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
