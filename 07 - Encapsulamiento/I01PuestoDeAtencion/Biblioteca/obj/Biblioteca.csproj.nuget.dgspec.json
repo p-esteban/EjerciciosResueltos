@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esteban\\source\\repos\\I01PuestoDeAtencion\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\07 - Encapsulamiento\\I01PuestoDeAtencion\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esteban\\source\\repos\\I01PuestoDeAtencion\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\07 - Encapsulamiento\\I01PuestoDeAtencion\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esteban\\source\\repos\\I01PuestoDeAtencion\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\07 - Encapsulamiento\\I01PuestoDeAtencion\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Esteban\\source\\repos\\I01PuestoDeAtencion\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\07 - Encapsulamiento\\I01PuestoDeAtencion\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esteban\\source\\repos\\I01PuestoDeAtencion\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Esteban\\Desktop\\COSAS\\EjerciciosResueltos\\07 - Encapsulamiento\\I01PuestoDeAtencion\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esteban\\AppData\\Roaming\\NuGet\\NuGet.Config",
