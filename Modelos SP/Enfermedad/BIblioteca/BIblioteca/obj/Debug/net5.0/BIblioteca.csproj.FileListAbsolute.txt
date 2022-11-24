@@ -1,0 +1,12 @@
+C:\Users\Esteban\Desktop\BIblioteca\BIblioteca\bin\Debug\net5.0\BIblioteca.deps.json
+C:\Users\Esteban\Desktop\BIblioteca\BIblioteca\bin\Debug\net5.0\BIblioteca.dll
+C:\Users\Esteban\Desktop\BIblioteca\BIblioteca\bin\Debug\net5.0\BIblioteca.pdb
+C:\Users\Esteban\Desktop\BIblioteca\BIblioteca\obj\Debug\net5.0\BIblioteca.csproj.AssemblyReference.cache
+C:\Users\Esteban\Desktop\BIblioteca\BIblioteca\obj\Debug\net5.0\BIblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\Desktop\BIblioteca\BIblioteca\obj\Debug\net5.0\BIblioteca.AssemblyInfoInputs.cache
+C:\Users\Esteban\Desktop\BIblioteca\BIblioteca\obj\Debug\net5.0\BIblioteca.AssemblyInfo.cs
+C:\Users\Esteban\Desktop\BIblioteca\BIblioteca\obj\Debug\net5.0\BIblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\BIblioteca\BIblioteca\obj\Debug\net5.0\BIblioteca.dll
+C:\Users\Esteban\Desktop\BIblioteca\BIblioteca\obj\Debug\net5.0\refint\BIblioteca.dll
+C:\Users\Esteban\Desktop\BIblioteca\BIblioteca\obj\Debug\net5.0\BIblioteca.pdb
+C:\Users\Esteban\Desktop\BIblioteca\BIblioteca\obj\Debug\net5.0\ref\BIblioteca.dll

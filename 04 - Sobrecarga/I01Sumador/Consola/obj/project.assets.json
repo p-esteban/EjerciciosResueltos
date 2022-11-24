@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\I01Sumador\\Consola\\Consola.csproj",
+      "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\04 - Sobrecarga\\I01Sumador\\Consola\\Consola.csproj",
       "projectName": "Consola",
-      "projectPath": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\I01Sumador\\Consola\\Consola.csproj",
+      "projectPath": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\04 - Sobrecarga\\I01Sumador\\Consola\\Consola.csproj",
       "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\I01Sumador\\Consola\\obj\\",
+      "outputPath": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\04 - Sobrecarga\\I01Sumador\\Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Esteban\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\I01Sumador\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\I01Sumador\\Biblioteca\\Biblioteca.csproj"
+            "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\04 - Sobrecarga\\I01Sumador\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "C:\\Users\\Esteban\\Desktop\\EjerciciosResueltos\\04 - Sobrecarga\\I01Sumador\\Biblioteca\\Biblioteca.csproj"
             }
           }
         }
@@ -83,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
